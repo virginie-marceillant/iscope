@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    outline: 1px solid red;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+p {
+    width:50%;
+}
+
+.contact{
+    background-color: #DCE4E8;
+}
+
+.header{
+    background-color: #DCE4E8;
+}
